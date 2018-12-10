@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "FishMeasure",
+    "icon": "/home/sshrestha/Downloads/app-icon.png",
+    "version": "1.0.0",
+    "slug": "fish-measure",
+    "sdkVersion": "27.0.0",
+    "ios": {
+      "bundleIdentifier": "com.sshrestha.fishmeasure"
+    },
+    "android": {
+      "package": "com.sshrestha.fishmeasure"
+    }
+  }
+}
